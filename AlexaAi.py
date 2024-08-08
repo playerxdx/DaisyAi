@@ -50,7 +50,7 @@ async def chatbot(client, message):
     await asyncio.sleep(2)
     await message.reply_photo(
         photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
-        caption=f"hii"",
+        caption=f"hii",
     ) 
 
 
